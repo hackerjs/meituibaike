@@ -1,4 +1,9 @@
-hackerjs.github.com
-===================
+对象:
 
-hackerjs.github.com
+     user
+     
+     img
+     
+     comment
+     
+     
