@@ -2,7 +2,11 @@
 
      user
      
+     mark
+     
      img
+     
+     tag
      
      comment
      
